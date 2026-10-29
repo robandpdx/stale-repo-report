@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 venv/
 stale_repos.csv
+.env
+.envrc
+*.csv
